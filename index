@@ -53,7 +53,7 @@ return false;
 });
 </script>
 
-	
+<link rel=”stylesheet” href=”https://reiko.matsumoto.github.io/reiko-matsumoto/style.css”/>	
 </head>
 <body class="home">
 	
